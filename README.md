@@ -1,168 +1,97 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Yojan%20Gowda%20N&fontSize=70&color=0:0f0c29,50:302b63,100:24243e&fontColor=e8c96e&stroke=6366f1&strokeWidth=2&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Integrator%20%E2%80%A2%20MERN%20Stack&descSize=18&descAlignY=68&descColor=a5b4fc" width="100%"/>
-</div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=E8C96E&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Yojan+%F0%9F%91%8B;Full+Stack+Web+Developer;AI+Integration+Engineer;MERN+Stack+Builder;Turning+ideas+into+products+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ashrith+%F0%9F%91%8B;AI%2FML+Engineer+in+the+making;First+Year+CS+%40+JSS+STU;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yojan-gowda-n-0402a23a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:yojangowdan21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://eternity-dashadikku-news.onrender.com/">
-    <img src="https://img.shields.io/badge/Live%20Project-3dd9c0?style=for-the-badge&logo=vercel&logoColor=black"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=YojanGowdaN&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
-</div>
+<!-- Badges -->
+![](https://komarev.com/ghpvc/?username=ashrithraik-ui&color=00d9ff&style=flat-square&label=PROFILE+VIEWS)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ashrithraik-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/ashrithraik)
+[![GitHub](https://img.shields.io/badge/GitHub-ashrithraik--ui-181717?style=flat-square&logo=github)](https://github.com/ashrithraik-ui)
 
-<br/>
+</div>
 
 ---
 
-## ⚡ About Me
+```python
+class Ashrith:
+    def __init__(self):
+        self.name        = "Ashrith Raik"
+        self.role        = "Aspiring AI/ML Engineer"
+        self.university  = "JSS Science & Technology University"
+        self.year        = "1st Year · Computer Science"
+        self.focus       = ["Machine Learning", "Deep Learning", "Competitive Programming"]
+        self.currently   = "Mastering DSA + Math for ML"
+        self.editor      = "VS Code  ·  Fira Code font  ·  dark theme (always)"
 
-```typescript
-const yojan = {
-  name        : "Yojan Gowda N",
-  location    : "Mandya, Karnataka, India 🇮🇳",
-  education   : "B.E. — AI & Machine Learning @ JSS Science & Tech University",
-  role        : "Full Stack Developer & AI Integrator",
-  stack       : ["React.js", "Node.js", "Express.js", "MongoDB"],
-  currently   : "Building AI-powered web products 🚀",
-  openTo      : "Freelance projects & collaborations 💼",
-  contact     : "yojangowdan21@gmail.com",
-};
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something cool 🚀")
+
+me = Ashrith()
+me.say_hi()
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+<div align="center">
+
+## ⚡ Tech Stack
+
+</div>
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**AI / ML**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
 
 <div align="center">
 
-#### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## 🗺️ Learning Roadmap
 
-#### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-#### 🤖 AI Integration
-![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-#### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+| Phase | Topic | Status |
+|:-----:|:------|:------:|
+| 01 | Python Fundamentals | ✅ Done |
+| 02 | Data Structures & Algorithms | 🔄 In Progress |
+| 03 | Mathematics for ML (Lin. Algebra, Calc, Stats) | 🔄 In Progress |
+| 04 | Classical ML (Regression, Classification, Clustering) | 📋 Up Next |
+| 05 | Deep Learning & Neural Networks | ⏳ Planned |
+| 06 | NLP & Transformers | ⏳ Planned |
+| 07 | End-to-End ML Projects & Deployment | ⏳ Planned |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
 <div align="center">
 
-### 🔥 DASHADIKKU — AI News Platform
+## 📊 GitHub Stats
 
-</div>
-
-<table>
-  <tr>
-    <td width="55%">
-      <h3>🤖 <a href="https://eternity-dashadikku-news.onrender.com/">DASHADIKKU</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-3dd9c0?style=flat-square&logoColor=black"/></h3>
-      <p>A full-featured AI-powered news platform built end-to-end and deployed live.</p>
-      <ul>
-        <li>🌍 Multilingual support — news in your language</li>
-        <li>🧠 AI News Assistant powered by Gemini AI</li>
-        <li>📂 Personalized feeds across 8 categories</li>
-        <li>🌤️ Live weather integration (auto location)</li>
-        <li>🔖 Saved articles, trending topics & videos</li>
-        <li>🧙 Guided onboarding wizard</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-      <a href="https://eternity-dashadikku-news.onrender.com/">
-        <img src="https://img.shields.io/badge/🌐%20Visit%20Live%20Site-e8c96e?style=for-the-badge&logoColor=black"/>
-      </a>
-    </td>
-    <td width="45%" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:302b63&height=200&text=DASHADIKKU&fontSize=30&fontColor=e8c96e&desc=AI%20News%20Platform&descColor=a5b4fc&descSize=14" width="100%"/>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=ashrithraik-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&rank_icon=github" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrithraik-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" width="40%" />
 
 <br/>
 
-<table>
-  <tr>
-    <td width="45%" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:111827,100:1f2937&height=200&text=Admin%20Dashboard&fontSize=26&fontColor=3dd9c0&desc=Full%20Stack%20Management%20System&descColor=9ca3af&descSize=13" width="100%"/>
-    </td>
-    <td width="55%">
-      <h3>📊 Admin Dashboard System</h3>
-      <p>A full-stack management platform with auth and content management.</p>
-      <ul>
-        <li>🔐 JWT Authentication & role-based access</li>
-        <li>📋 Rich content management interface</li>
-        <li>📈 Data management with MongoDB</li>
-        <li>⚡ RESTful API architecture</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🐍 Contribution Snake
-
-Generates a snake game from a github user contributions graph
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-### 💬 Quote I Live By
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrithraik-ui&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6e6e&currStreakLabel=00d9ff" width="55%" />
 
 </div>
 
@@ -170,12 +99,45 @@ Generates a snake game from a github user contributions graph
 
 <div align="center">
 
-**Thanks for stopping by! Let's build something amazing together 🚀**
+## 🧩 LeetCode Progress
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yojan-gowda-n-0402a23a8/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Send%20Me%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yojangowdan21@gmail.com)
+<img src="https://leetcard.jacoblin.cool/ashrithraik?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8" width="55%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashrithraik-ui&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashrithraik-ui)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Current Focus
+
+```
+🧠  Differential Equations  ·  ODEs  ·  Variation of Parameters
+⚔️  LeetCode DSA Grind      ·  Arrays  ·  Recursion  ·  DP
+🤖  Exploring ML Concepts   ·  Reading Papers  ·  Running Experiments
+```
+
+<br/>
+
+*"The only way to learn a new programming language is by writing programs in it."*
+— Dennis Ritchie
+
+<br/>
+
+---
+
+**Thanks for visiting! If you found something interesting, drop a ⭐**
+
+![](https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=80&section=footer)
 
 </div>
