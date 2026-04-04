@@ -7,8 +7,9 @@
 
 <!-- Badges -->
 ![](https://komarev.com/ghpvc/?username=ashrithraik-ui&color=00d9ff&style=flat-square&label=PROFILE+VIEWS)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ashrithraik-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/ashrithraik)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ashrith__rai__k-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/ashrith_rai_k)
 [![GitHub](https://img.shields.io/badge/GitHub-ashrithraik--ui-181717?style=flat-square&logo=github)](https://github.com/ashrithraik-ui)
+[![Code360](https://img.shields.io/badge/Code360-ashrithraik-F0742B?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/code360/profile/ashrithraik)
 
 </div>
 
@@ -101,7 +102,7 @@ me.say_hi()
 
 ## 🧩 LeetCode Progress
 
-<img src="https://leetcard.jacoblin.cool/ashrithraik?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8" width="55%"/>
+<img src="https://leetcard.jacoblin.cool/ashrith_rai_k?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8" width="55%"/>
 
 </div>
 
