@@ -139,6 +139,12 @@ me.say_hi()
 
 **Thanks for visiting! If you found something interesting, drop a ⭐**
 
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashrith_Rai_K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashrith-rai-k-604aa1362)
+[![Gmail](https://img.shields.io/badge/Gmail-ashrithraik@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashrithraik@gmail.com)
+
 ![](https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=80&section=footer)
 
 </div>
+
