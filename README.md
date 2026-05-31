@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════ HERO BANNER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00fff7,100:0d1117&height=220&section=header&text=ASHRITH%20RAIK&fontSize=70&fontColor=00fff7&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20ML%20Developer%20%C2%B7%20Builder&descColor=ffffff&descSize=20&descAlignY=62&animation=twinkling" width="100%"/>
+<img src="./name-banner.svg" width="100%" alt="Ashrith Raik Banner"/>
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFF7&center=true&vCenter=true&width=650&lines=🤖+AI%2FML+Engineer+in+the+making...;📚+1st+Year+CSE+%40+JSS+STU%2C+Mysuru;🧠+Exploring+Machine+Learning+%7C+Deep+Learning;🌐+Building+Full+Stack+AI+Applications;🚀+Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
@@ -69,7 +69,7 @@ I'm a **1st Year CSE student** at JSS Science & Technology University, Mysuru �
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Anthropic](https://img.shields.io/badge/Anthropic%20API-0d1117?style=flat-square&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama%20API-6f42c1?style=flat-square&logo=meta&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -83,7 +83,7 @@ I'm a **1st Year CSE student** at JSS Science & Technology University, Mysuru �
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Anthropic](https://img.shields.io/badge/Anthropic%20API-0d1117?style=flat-square&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama%20API-6f42c1?style=flat-square&logo=meta&logoColor=white)
 
 </td>
 </tr>
