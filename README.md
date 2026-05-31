@@ -40,23 +40,10 @@
 
 </div>
 
-```bash
-┌─────────────────────────────────────────────────────────────────┐
-│                   SYSTEM IDENTITY CARD // v1.0                  │
-│─────────────────────────────────────────────────────────────────│
-│  NAME      Ashrith Raik                                         │
-│  ROLE      AI/ML Engineer · CSE Student · Developer             │
-│  STATUS    ██████████████████░░  BUILDING ●                     │
-│  STACK     Python · TensorFlow · React · Node.js · Git          │
-│  FOCUS     Machine Learning · Deep Learning · Web Dev           │
-│─────────────────────────────────────────────────────────────────│
-│  [ Python ]  [ TensorFlow ]  [ React ]  [ LangChain ]          │
-│─────────────────────────────────────────────────────────────────│
-│                  SYSTEM ACTIVE · UPTIME ∞                       │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
+</div>
+<div align="center">
+  <img src="./system-identity-card.svg" width="700"/>
+</div>
 
 ---
 
