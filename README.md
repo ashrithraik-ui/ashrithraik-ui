@@ -41,8 +41,8 @@ I'm a **1st Year CSE student** at JSS Science & Technology University, Mysuru �
 - 🌐 **Full Stack Builder** — React, Node.js, HTML/CSS/JS — dark terminal UIs
 - 🧠 **Currently Learning** — Deep Learning, Neural Networks, scikit-learn
 - 💻 **Problem Solver** — Active on LeetCode & Code360, grinding DSA daily
-- 🎮 **Creative Coder** — Built a custom Flappy Bird as a gift for my brother
-- 🚀 **Portfolio Builder** — AI Resume Screener, Spotify Clone, Dev Portfolio
+- 🎮 **Creative Coder** — Built a custom Snake Game as a gift for my brother
+- 🚀 **Portfolio Builder** — Fake Crime News Detector, Launchpad AI, Spotify Clone
 - 📍 **Based in** — Mysuru, Karnataka, India
 - 🎯 **Goal** — Become an impactful AI/ML engineer before I finish my degree
 
@@ -60,12 +60,12 @@ I'm a **1st Year CSE student** at JSS Science & Technology University, Mysuru �
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Resume Screener
+### 🕵️ Fake Crime News Detector AI
 
 <img src="https://img.shields.io/badge/STATUS-LIVE-00ffff?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/TYPE-AI%20PROJECT-ff6e96?style=flat-square&labelColor=0d1117" />
 
-> TF-IDF cosine similarity + Anthropic LLM scoring system with a dark terminal UI. Built to be demo-ready in technical interviews.
+> AI-powered system that detects fake or misleading crime news using NLP classification — built to fight misinformation with machine learning.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -74,16 +74,16 @@ I'm a **1st Year CSE student** at JSS Science & Technology University, Mysuru �
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Developer Portfolio
+### 🚀 Launchpad AI
 
-<img src="https://img.shields.io/badge/STATUS-LIVE-00ffff?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/TYPE-PERSONAL%20SITE-ff6e96?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING-ffaa00?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/TYPE-AI%20TOOL-ff6e96?style=flat-square&labelColor=0d1117" />
 
-> Single-page dark terminal-aesthetic portfolio website showcasing AI/ML focus, projects, and skills. Built from scratch.
+> AI-powered launchpad that helps students and developers kickstart projects with smart suggestions, tech stack picks, and learning roadmaps.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Anthropic](https://img.shields.io/badge/Anthropic%20API-0d1117?style=flat-square&logoColor=white)
 
 </td>
 </tr>
@@ -104,12 +104,12 @@ I'm a **1st Year CSE student** at JSS Science & Technology University, Mysuru �
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Custom Flappy Bird
+### 🐍 Custom Snake Game
 
 <img src="https://img.shields.io/badge/STATUS-BUILT-00ff88?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/TYPE-CREATIVE%20PROJECT-ff6e96?style=flat-square&labelColor=0d1117" />
 
-> Personalized Flappy Bird built as a gift for my younger brother. Custom assets, tweaked physics — because off-the-shelf is boring.
+> Personalized Snake game built as a gift for my younger brother. Custom themes, speed levels, and surprise elements — because off-the-shelf is boring.
 
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML Canvas](https://img.shields.io/badge/Canvas-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -243,8 +243,8 @@ class AshrithRaik:
         self.degree       = "B.E. Computer Science Engineering"
         self.year         = "1st Year"
         self.focus        = ["Artificial Intelligence", "Machine Learning", "Full Stack Dev"]
-        self.building     = ["AI Resume Screener", "Spotify Clone", "Dev Portfolio"]
-        self.fun_fact     = "I built a custom Flappy Bird as a gift for my brother 🎮"
+        self.building     = ["Fake Crime News Detector AI", "Launchpad AI", "Spotify Clone"]
+        self.fun_fact     = "I built a custom Snake Game as a gift for my brother 🐍"
         self.goal         = "Engineer impactful AI systems before finishing my degree"
 
     def current_status(self):
