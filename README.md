@@ -297,6 +297,16 @@ class AshrithRaik:
 
 ---
 
+<!-- ═══════════════════════ SYSTEM LOGS ═══════════════════════ -->
+
+## ⚡ SYSTEM LOGS
+
+<div align="center">
+<img src="./facts.svg" width="100%" alt="Fun Facts"/>
+</div>
+
+---
+
 <!-- ═══════════════════════ DEV QUOTE ═══════════════════════ -->
 
 <div align="center">
@@ -326,3 +336,4 @@ class AshrithRaik:
 **`> SYSTEM ACTIVE · ALWAYS LEARNING · ALWAYS BUILDING`**
 
 </div>
+
