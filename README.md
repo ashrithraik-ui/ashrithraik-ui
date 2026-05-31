@@ -4,6 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00fff7,100:0d1117&height=200&section=header&text=ASHRITH%20RAIK&fontSize=60&fontColor=00fff7&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20ML%20Developer%20%C2%B7%20Builder&descColor=ffffff&descSize=18&descAlignY=60&animation=twinkling" width="100%"/>
 
 </div>
+<div align="center">
+  <img src="./system-identity-card.svg" width="700"/>
+</div>
 
 <div align="center">
 
