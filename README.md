@@ -256,47 +256,6 @@ class AshrithRaik:
 
 ---
 
-<!-- ═══════════════════════ LEARNING ROADMAP ═══════════════════════ -->
-
-## 🗺️ AI/ML LEARNING ROADMAP
-
-> *Tracking my journey from 1st year student → AI/ML Engineer — one milestone at a time.*
-
-<div align="center">
-
-| # | Phase | Domain | Topics | Status | Target |
-|:-:|:------|:-------|:-------|:------:|:------:|
-| 01 | 🌱 **Foundation** | Python | Core Python, OOP, File I/O, Libraries | ✅ Done | Sem 1 |
-| 02 | 🌱 **Foundation** | Web Dev | HTML · CSS · JS · React · Node.js | ✅ Done | Sem 1 |
-| 03 | 🌱 **Foundation** | DSA | Arrays, Strings, Recursion, Sorting | 🔄 Active | Sem 1–2 |
-| 04 | 🌿 **Core ML** | Mathematics | Linear Algebra, Calculus, Probability, Stats | 🔄 Active | Sem 2 |
-| 05 | 🌿 **Core ML** | ML Basics | Regression, Classification, Clustering, scikit-learn | 🔄 Active | Sem 2 |
-| 06 | 🌿 **Core ML** | Data Skills | NumPy, Pandas, Matplotlib, EDA, Feature Eng | 🔄 Active | Sem 2 |
-| 07 | 🌳 **Deep Learning** | Neural Networks | Perceptrons, Backprop, Optimizers — Keras/TF | 📅 Next | Sem 3 |
-| 08 | 🌳 **Deep Learning** | CNNs | Image Classification, Object Detection, OpenCV | 📅 Next | Sem 3 |
-| 09 | 🌳 **Deep Learning** | RNNs & LSTMs | Sequence Models, Time Series, Text Gen | 📅 Next | Sem 3 |
-| 10 | 🚀 **Advanced AI** | NLP | Tokenization, Embeddings, Transformers, BERT | 📅 Planned | Sem 4 |
-| 11 | 🚀 **Advanced AI** | LLMs & RAG | LangChain, Vector DBs, Agents, RAG Pipelines | 📅 Planned | Sem 4 |
-| 12 | 🚀 **Advanced AI** | Generative AI | GANs, Diffusion Models, Prompt Engineering | 📅 Planned | Sem 4–5 |
-| 13 | ☁️ **MLOps** | Deployment | FastAPI, Docker, Model Serving, REST APIs | 📅 Planned | Sem 5 |
-| 14 | ☁️ **MLOps** | Cloud | AWS/GCP, SageMaker, Model Monitoring | 📅 Planned | Sem 5–6 |
-| 15 | 🏆 **Compete** | Kaggle & Hackathons | Real datasets, leaderboards, real problems | 🔄 Active | Ongoing |
-| 16 | 🤝 **Community** | Open Source | Contribute to ML/AI repos on GitHub | 🔄 Active | Ongoing |
-
-</div>
-
-<div align="center">
-
-```
-✅ Done  ·  🔄 Active  ·  📅 Planned
-```
-
-**Progress: `████████░░░░░░░░░░░░` ~35% of AI/ML roadmap complete**
-
-</div>
-
----
-
 <!-- ═══════════════════════ SYSTEM LOGS ═══════════════════════ -->
 
 ## ⚡ SYSTEM LOGS
@@ -336,4 +295,3 @@ class AshrithRaik:
 **`> SYSTEM ACTIVE · ALWAYS LEARNING · ALWAYS BUILDING`**
 
 </div>
-
